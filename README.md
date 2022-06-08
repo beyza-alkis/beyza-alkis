@@ -10,8 +10,7 @@ I am currently a management information systems student. I am very interested in
 *   ✉️  You can contact me at [beyzaalkis9620@gmail.com](mailto:beyzaalkis9620@gmail.com)
 *   🧠  I'm learning JavaScript, React
 *   🤝  I'm open to collaborating on Frontend Skills
-*   ⚡  I want to reach the level to write code even in my dreams.
-*   
+*   ⚡  I want to reach the level to write code even in my dreams. 
      
 ### Skills
 
