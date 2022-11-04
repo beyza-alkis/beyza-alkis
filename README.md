@@ -1,6 +1,6 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beyza Alkış 
 ### Frontend Developer 
-I am currently a management information systems student. I am very interested in software. I am developing myself as a frontend developer. I am not working in any company at the moment, I focused on improving myself. I am open to work as a front end developer.  
+I am currently a management information systems student. I am very interested in software. I am developing myself as a frontend developer. I'm a trainee at a company right now, I focused on improving myself. I am open to work as a front end developer.  
 * 🌍  I'm based in Turkey 
 * ✉️  You can contact me at [beyzaalkis9620@gmail.com](mailto:beyzaalkis9620@gmail.com) 
 * 🧠  I'm learning JavaScript, React 
