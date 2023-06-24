@@ -1,10 +1,10 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beyza Alkış 
-### Frontend Developer 
+### Software Developer 
 I am currently a management information systems student. I am very interested in software. I am developing myself as a frontend developer. I'm a trainee at a company right now, I focused on improving myself. I am open to work as a front end developer.  
 * 🌍  I'm based in Turkey 
 * ✉️  You can contact me at [beyzaalkis9620@gmail.com](mailto:beyzaalkis9620@gmail.com) 
-* 🧠  I'm learning JavaScript, React 
-* 🤝  I'm open to collaborating on Frontend Skills 
+* 🧠  I'm learning Golang 🦋
+* 🤝  I'm open to collaborating on Software Skills 
 * ⚡  I want to reach the level to write code even in my dreams.
 
 <a href="https://www.twitter.com/beyza_alkis" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/beyza_alkis?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
