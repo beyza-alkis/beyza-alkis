@@ -3,7 +3,7 @@
 I am currently a management information systems student. I am very interested in software. I am developing myself as a frontend developer. I'm a trainee at a company right now, I focused on improving myself. I am open to work as a front end developer.  
 * 🌍  I'm based in Turkey 
 * ✉️  You can contact me at [beyzaalkis9620@gmail.com](mailto:beyzaalkis9620@gmail.com) 
-* 🧠  I'm learning Golang 🦋
+* 🧠  I'm learning Angular 🦋
 * 🤝  I'm open to collaborating on Software Skills 
 * ⚡  I want to reach the level to write code even in my dreams.
 
